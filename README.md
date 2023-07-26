@@ -74,5 +74,3 @@ Contributions to this project are welcome! If you find any issues or improvement
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can customize the README further based on your specific project details and add more information about the application's features, usage, and additional configurations if necessary.
